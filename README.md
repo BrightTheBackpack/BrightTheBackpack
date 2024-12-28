@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @BrightTheBackpack
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Math Matters app
 
 <!---
 BrightTheBackpack/BrightTheBackpack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
